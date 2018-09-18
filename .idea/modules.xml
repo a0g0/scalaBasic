@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scalaBasic.iml" filepath="$PROJECT_DIR$/.idea/modules/scalaBasic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scalabasic-build.iml" filepath="$PROJECT_DIR$/.idea/modules/scalabasic-build.iml" />
+    </modules>
+  </component>
+</project>
